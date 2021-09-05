@@ -17,9 +17,3 @@ Terraform hi
 Terraform hello
 
 Terraform AWS
-
-
-Terraform Workspaces
-Terraform remote state
-
-Terraform null resource
